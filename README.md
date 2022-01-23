@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👋🏻 WELCOME TO MY PROFILE! 👋🏻
+### 👋🏻 WELCOME TO MY PROFILE 👋🏻
 
   Purchasing Technician on Garcias, S.A. 🍷 | Bachelor in Logistics and Distribution Management 🎓 | Currently taking the Damia's Tech Recruitment Academy 🐜
 
