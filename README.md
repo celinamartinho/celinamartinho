@@ -2,7 +2,7 @@
 
 ### 👋🏻 WELCOME TO MY PROFILE! 👋🏻
 
-  Purchasing Technician on Garcias, S.A. 🍷 | Bachelor in Logistics and Distribution Management 🎓 
+  Purchasing Technician on Garcias, S.A. 🍷 | Bachelor in Logistics and Distribution Management 🎓 | Currently taking the Damia's Tech Recruitment Academy 🐜
 
 <div> 
   <a href="https://www.linkedin.com/in/celina-martinho-4488b1196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
