@@ -27,7 +27,7 @@
 - I consider myself a creative person, dynamic, flexible, autonomous, responsible, assiduous and punctual.
 
 🫀 Soft Skills:
-- I plan my activies on a weekly basis.
+- I plan my activities on a weekly basis.
 - English - B2.
 - Fast learner with great adaptability, valuing teamwork.
   
