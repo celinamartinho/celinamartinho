@@ -1,8 +1,6 @@
-### Hi there 👋
+<div align="center">
 
-### Hi there 👋 My name is Celina Martinho. I hope you enjoy my CV!
-
-Let's get started...
+### 👋🏻 WELCOME TO MY PROFILE! 👋🏻
 
 
 <div> 
@@ -11,6 +9,9 @@ Let's get started...
  
 </div>
 
+</div align="center">
+  
+  
 <div>
 
 - 💼 I’m currently working on Garcias, S.A. as a Purchasing Technician:
@@ -27,7 +28,7 @@ Let's get started...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 </div>
 
