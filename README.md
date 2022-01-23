@@ -2,6 +2,7 @@
 
 ### 👋🏻 WELCOME TO MY PROFILE! 👋🏻
 
+  Purchasing Technician on Garcias, S.A. 🍷 | Bachelor in Logistics and Distribution Management 🎓 
 
 <div> 
   <a href="https://www.linkedin.com/in/celina-martinho-4488b1196/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -13,8 +14,9 @@
   
   
 <div>
-
-- 💼 I’m currently working on Garcias, S.A. as a Purchasing Technician:
+Purchasing Technician on Garcias, S.A. 🍷 | Bachelor in Logistics and Distribution Management 🎓 |
+  
+  💼 I’m currently working on Garcias, S.A. as a Purchasing Technician:
 -  → Usage of the Primavera software for:
 - • Inventory management;
 - • Issuing invoices;
