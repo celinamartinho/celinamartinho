@@ -18,9 +18,7 @@
 💼 Professional Experience:
 - 🍷 Purshasing Technician on Garcias, S.A. (26/04/2021 – CURRENT)
 - 🏠 Store Coordinator on ERA Imobiliária (11/2020 – 04/2021)
--  Product Promoter on Facing Lda (22/11/2017 – CURRENT)
 - 💊 Curricular Intership on Farmavenix (27/05/2019 – 09/09/2019)
-- 🛒 Cashier on Continente Bom Dia (17/09/2018 – 16/03/2019)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
