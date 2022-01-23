@@ -14,13 +14,9 @@
   
   
 <div>
-Purchasing Technician on Garcias, S.A. 🍷 | Bachelor in Logistics and Distribution Management 🎓 |
-  
-  💼 I’m currently working on Garcias, S.A. as a Purchasing Technician:
--  → Usage of the Primavera software for:
+ - 🦋 Experience on Primavera Software
+ - 🧾 Issuing invoices, credit and debit notes
 - • Inventory management;
-- • Issuing invoices;
-- • Issuing credit and debit notes;
 - • Sending the purchasing registry of the clients to the suppliers;
 - • Filing and organization of invoices;
 - • Support on the purchasing department.
