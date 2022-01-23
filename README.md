@@ -16,7 +16,7 @@
 <div>
 
 💼 Professional Experience:
-- 🍷 Purshasing Technician on Garcias, S.A. (26/04/2021 – CURRENT)
+- 🍷 Purchasing Technician on Garcias, S.A. (26/04/2021 – CURRENT)
 - 🏠 Store Coordinator on ERA Imobiliária (11/2020 – 04/2021)
 - 💊 Curricular Intership on Farmavenix (27/05/2019 – 09/09/2019)
   
@@ -38,12 +38,10 @@
 </div>
 
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s=s180-rw">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/d2/50/a4d250d9-621a-2ecc-0255-9e78a10e4540/XCEL.png/1200x630bb.png">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://rhmagazine.pt/wp-content/uploads/2018/02/primavera.jpg">
+  <img align="center" alt="Rafa-Js" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="center" alt="Rafa-Ts" height="30" width="85" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img align="center" alt="Rafa-React" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <img align="center" alt="Rafa-CSS" height="30" width="80" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  </div>
